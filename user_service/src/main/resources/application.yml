@@ -1,0 +1,9 @@
+server:
+  port: 9901
+
+spring:
+  application:
+    name: user-service
+eureka:
+  instance:
+    hostname:localhost
