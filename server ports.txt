@@ -1,0 +1,11 @@
+user:
+http://localhost:9901/user/userid
+
+contacts:
+http://localhost:9902/contact/user/userid
+
+apigateway:
+http://localhost:8999/user/userid
+
+eureka server:
+localhost:8761
